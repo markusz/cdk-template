@@ -1,0 +1,15 @@
+{
+  "name": "lambda",
+  "version": "0.1.0",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.97",
+    "@types/node": "^16.11.35",
+    "@typescript-eslint/eslint-plugin": "^5.23.0",
+    "@typescript-eslint/parser": "^5.23.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.26.0",
+    "ts-node": "^9.0.0",
+    "typescript": "~3.9.7"
+  }
+}
