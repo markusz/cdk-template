@@ -7,6 +7,5 @@ interface AppStackProps extends StackProps {
 export default class AppStack extends Stack {
   constructor(scope: Construct, id: string, props?: AppStackProps) {
     super(scope, id, props);
-
   }
 }
