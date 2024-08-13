@@ -1,15 +1,19 @@
 {
   "name": "lambda",
   "version": "0.1.0",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
   "devDependencies": {
-    "@types/aws-lambda": "^8.10.103",
-    "@types/node": "^16.11.58",
-    "@typescript-eslint/eslint-plugin": "^5.37.0",
-    "@typescript-eslint/parser": "^5.37.0",
-    "eslint": "^7.32.0",
-    "eslint-config-airbnb-base": "^14.2.1",
-    "eslint-plugin-import": "^2.26.0",
-    "ts-node": "^9.0.0",
-    "typescript": "~3.9.7"
+    "@types/aws-lambda": "^8.10.143",
+    "@types/node": "^20.14.9",
+    "@typescript-eslint/eslint-plugin": "^8.1.0",
+    "@typescript-eslint/parser": "^8.1.0",
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "15.0.0",
+    "eslint-plugin-import": "^2.29.1",
+    "ts-node": "^10.9.2",
+    "typescript": "~5.5.4"
   }
 }
